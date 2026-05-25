@@ -1,0 +1,1 @@
+“Repositorio: Lugar donde se guardan los archivos y el historial de cambios de un proyecto.nCommit: Registro de los cambios realizados en el proyecto.nPush: Acción de enviar los cambios del repositorio local a un repositorio remoto.”

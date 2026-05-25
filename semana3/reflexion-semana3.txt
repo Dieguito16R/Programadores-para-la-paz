@@ -1,0 +1,1 @@
+“Mantener un registro de cambios ayuda a trabajar de forma más organizada y segura. Gracias a herramientas como Git, los desarrolladores pueden colaborar mejor, corregir errores con facilidad y mantener un historial claro del progreso del proyecto.”
