@@ -1,0 +1,16 @@
+Al enviar una petición POST a la ruta /registro con los datos:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor responde con:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que Express recibe correctamente la información enviada mediante req.body y la devuelve en formato JSON.
