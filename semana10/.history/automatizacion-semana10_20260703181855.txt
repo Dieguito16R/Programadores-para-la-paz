@@ -1,0 +1,12 @@
+Evento: cuando se registra un nuevo reporte en la plataforma.
+
+Acción: enviar un mensaje automático a Telegram.
+
+Mensaje: "Nuevo reporte recibido. Revisar el sistema de seguimiento."
+
+Información que NO se debe enviar:
+- Nombres completos
+- Direcciones exactas
+- Números de teléfono
+- Documentos de identidad
+- Cualquier dato personal o sensible

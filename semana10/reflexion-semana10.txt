@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar el trabajo de una comunidad porque permiten dividir el proyecto en tareas pequeñas y manejables. 
+El uso de un backlog facilita la priorización de actividades según su importancia. 
+Las iteraciones permiten avanzar paso a paso y mejorar el sistema de forma continua. 
+La automatización con herramientas como n8n ayuda a agilizar procesos repetitivos sin intervención manual constante. 
+Telegram puede funcionar como canal de notificación y coordinación entre los miembros del equipo. 
+Esto mejora la comunicación y la respuesta ante los reportes de la comunidad. 
+Sin embargo, es importante no automatizar información sensible. 
+También se debe mantener siempre la revisión humana en las decisiones importantes.
