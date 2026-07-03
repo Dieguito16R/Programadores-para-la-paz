@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana necesita una base de datos para almacenar información de manera organizada y estructurada.  
+La autenticación de usuarios es importante porque permite controlar el acceso al sistema y proteger la información.  
+La protección de datos evita que información sensible sea expuesta o utilizada de forma indebida.  
+Estos elementos trabajan juntos para garantizar seguridad y confianza en la plataforma.  
+Sin base de datos no habría registro ni seguimiento de la información.  
+Sin autenticación cualquier persona podría modificar datos sin control.  
+Sin protección de datos se pondría en riesgo la privacidad de la comunidad.  
+Por eso es fundamental implementar estas herramientas en sistemas comunitarios.  
+Además, permiten construir plataformas más seguras, confiables y responsables.

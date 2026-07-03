@@ -1,0 +1,11 @@
+El login es el proceso mediante el cual un usuario ingresa a una aplicación utilizando credenciales como usuario y contraseña para ser identificado.
+
+Es importante porque permite controlar el acceso a las diferentes funciones del sistema según el rol de cada usuario.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deben estar disponibles para cualquier persona.
+
+No se debe exponer información sensible como contraseñas, documentos de identidad, teléfonos, direcciones, tokens o claves de API.
+
+La autenticación ayuda a mejorar la seguridad del sistema y evita accesos no autorizados.
+
+Además, permite registrar acciones de los usuarios para mantener trazabilidad dentro de la plataforma.
